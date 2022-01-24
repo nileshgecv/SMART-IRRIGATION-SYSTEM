@@ -1,0 +1,2 @@
+# SMART-IRRIGATION-SYSTEM
+There are many problems associated with irrigation system in developing country- Low water availability , Required high man power , Hard to manage big farm and Poor mechanism of Irrigation . So I am proposing a smart irrigation system controlled with mobile  using  IoT . With this proposed  system  anyone can control irrigation of farm from anywhere.  It will make irrigation process more efficient and workers can concentrate on other important farming tasks.
